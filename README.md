@@ -1,9 +1,6 @@
-### Hello! 👋 So excited you're here!
+ Hello! 👋 So excited you're here!
 
-<!--
-**GloriReyes/GloriReyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... becoming sweeter by adding finishing touches to Green Goodies github page
 - 🌱 I’m currently learning ... React infinitely
@@ -12,4 +9,4 @@ Here are some ideas to get you started:
 - Ask Me About ... my thoughts on ketchup and/or something Branding related
 - 😄 Pronouns: ... She/Her (i.e. She is a delight. Just love her)
 - ⚡ Fun fact: ... The funnest fact about me is that I teach a killer dance class called VXN. 
--->
+
